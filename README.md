@@ -17,3 +17,4 @@ The data is sourced from the public **ITDashboard.gov** 2025 snapshot.
 2. Install dependencies: 
    ```bash
    pip install streamlit pandas
+   Run this app: streamlit run dashboard.py
